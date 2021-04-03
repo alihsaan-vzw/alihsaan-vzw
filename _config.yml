@@ -22,8 +22,8 @@ title: Al-Ihsan School
 email: school@alihsaan.be
 description: >- # this means to ignore newlines until "baseurl:"
   Making learning Arabic and the holy Qur'an more pleasant for everyone!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/school" # the subpath of your site, e.g. /blog
+url: "https://alihsaan-vzw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: moskeealihsaan
 twitter_username: moskeealihsaan
 # github_username:  jekyll
